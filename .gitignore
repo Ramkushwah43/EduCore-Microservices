@@ -1,0 +1,11 @@
+
+# Eclipse workspace
+.metadata/
+
+# Java build output
+**/target/
+
+# Eclipse project files (optional)
+.classpath
+.project
+.settings/
